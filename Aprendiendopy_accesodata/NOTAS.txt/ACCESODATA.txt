@@ -1,0 +1,7 @@
+Vista se comunica con el usuario, todos print e input deberian ir aqui
+Modelo, aqui van las tablas, queries, la estructura en general de la agenda
+Controlador, sirve para controlar el flujo de comunicación
+
+datos/bbdd 
+
+Lista; 
